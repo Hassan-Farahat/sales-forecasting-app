@@ -2,7 +2,7 @@
 
 An interactive Time Series Analytics dashboard built with Python, Streamlit, and Scikit-Learn to project future business revenue.
 
-🚀 **[Live Demo](https://sales-forecasting-app.streamlit.app/)**
+🚀 **[Live Demo](https://hassan-farahat-sales-forecasting-app-app-jtdeib.streamlit.app/)**
 
 ## ✨ Features
 
